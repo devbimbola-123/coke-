@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+.nav-item, .nav-link{
+    font-weight: bolder;
+    font-size: 15px;
+    color: rgb(251, 11, 11)!important;
+    gap: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+.display-4{
+    font-weight: bolder !important;
+    text-align: center;
+}
+
+.mage{
+    width: 90%;
+    border: 4px solid blue;
+    border-radius: 30px;
+    margin: 30px;
+}
+
+.football-image{
+    width: 100%;
+    border-radius: 18px;
+} 
+
+.anything{
+    display: flex;
+    border-radius: 15px;
+}
+
+.lead{
+     text-align: center;
+}
+
+.lead h1{
+    font-size: larger;
+
+}
+
+.lead p{
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ololo{
+    width: 100%;
+    /* border: 20px; */
+    border-radius: 10px;
+    margin-top: 40px;
+}
